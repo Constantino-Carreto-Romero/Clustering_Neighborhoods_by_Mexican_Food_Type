@@ -52,7 +52,7 @@ When analyzing our Foursquare dataset, regarding food category frecuencies, we n
 <img src="./frecuency.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 5px;"
-     width="500" height="500" />
+     width="500" height="400" />
 
 
 After cleaning our Foursquare dataset, we obtain our final dataset which is the input for our cluster analysis. This final dataset looks like this:
@@ -114,7 +114,7 @@ To acctually visualize the geographical distribution of clusters, we plot the ne
 <img src="./map.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 5px;"
-     width="900" height="900" />
+     width="900" height="600" />
 
 ## 4. Results
 
